@@ -14,6 +14,8 @@
 - Tim Meinert ([tmeinert2020](https://github.com/tmeinert2020))
 - Alfonso Orbe Coka ([LeonidasEDM](https://github.com/LeonidasEDM))
 - William Mollaymeri ([WilliamM23](https://github.com/WilliamM23))
+- Brian Lazarre ([blazarre]
+(https://github.com/blazarre))
 - Rafael Huang ([Rafael-Huang](https://github.com/Rafael-Huang))
 - Nathan D'Agostino ([NathanDOp](https://github.com/NathanDOp))
 - Antonio Talavera ([Antonio1203](https://github.com/Antonio1203))
